@@ -1,7 +1,6 @@
 function solution(babbling) {
     var answer = 0;
     let i = 0;
-    let lastIndex = 4;
     let list = ["aya", "ye", "woo", "ma"];
 
     for(i = 0; i < babbling.length; i++) {
